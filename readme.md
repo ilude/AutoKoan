@@ -17,4 +17,4 @@ Installation And Usage
 3. Open a powershell prompt and cd to your ruby koans directory
 4. Enter the following:
 
-	$ .\auto-koan
+		$ .\auto-koan
